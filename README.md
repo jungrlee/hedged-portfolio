@@ -5,7 +5,7 @@ A portfolio construction memo built from the bottom up: each single stock is val
 **Author:** Jung Ryul · FMBA (Finance & Business Analytics), SKK Graduate School of Business
 **Data as of:** 22–26 September 2026 · **Holdings:** 22 US + 19 Korea + 5 Japan
 
-📄 **[Read the memo (PDF)](report/Portfolio_46_Assets.pdf)** · 📓 **[Notebook](notebook/Portfolio_Optimization_46.ipynb)** · 📊 **[Final weights (CSV)](data/final_weights.csv)**
+📄 **[Read the memo (PDF)](report/Portfolio_Assets.pdf)** · 📓 **[Notebook](notebook/Portfolio_Optimization_46.ipynb)** · 📊 **[Final weights (CSV)](data/final_weights.csv)**
 
 ## Summary (ex-ante, KRW)
 
