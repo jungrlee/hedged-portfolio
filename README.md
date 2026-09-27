@@ -1,4 +1,4 @@
-# Hedged 46-Asset US–Korea–Japan Portfolio
+# Jung Ryul Lee Portfolio
 
 A portfolio construction memo built from the bottom up: each single stock is valued with a cash-flow model and held only if it shows at least 15% upside; weights come from a constrained optimiser; risk is checked with a factor model and stress tests. Measured in KRW for a Korean investor.
 
