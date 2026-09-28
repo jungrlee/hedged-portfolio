@@ -2,7 +2,7 @@
 
 A portfolio construction project for a Korean (KRW-based) investor: a systematic stock screen and valuation across the US, Korea and Japan, a hedge sleeve built from ETFs, and a two-pass portfolio optimisation.
 
-**Report:** [`report/Hedged_Multi-Asset_Portfolio.pdf`](report/Hedged_Multi-Asset_Portfolio.pdf) (also `.docx`) · **Notebook:** [`notebook/Portfolio_Screen_and_Optimization.ipynb`](notebook/Portfolio_Screen_and_Optimization.ipynb)
+**Report:** [`report/Portfolio_Assets.pdf`](report/Portfolio_Assets.pdf) (also `.docx`) · **Notebook:** [`notebook/Portfolio_Optimization.ipynb`](notebook/Portfolio_Optimization.ipynb)
 
 ## Process
 
