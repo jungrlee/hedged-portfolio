@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ticker,name,country,sleeve,kind,weight
 IVV,"iShares Core S&P 500 ETF",US,Growth,etf,0.0500
 USMV,"iShares MSCI USA Min Vol Factor ETF",US,Growth,etf,0.0100
@@ -42,3 +43,52 @@ PDBC,"Invesco Optimum Yield Diversified Commodity ETF",US,Hedge,etf,0.0150
 4503,"Astellas Pharma",JP,Growth,stock,0.0225
 1343,"NEXT FUNDS REIT Index ETF",JP,Real assets,etf,0.0150
 2561,"iShares Core Japan Govt Bond ETF",JP,Hedge,etf,0.0275
+=======
+ticker,name,market,sleeve,weight,expected_return,volatility_krw,risk_contribution
+IVV,iShares Core S&P 500 ETF,US,Growth,0.0500,0.0650,0.1550,0.0910
+UNH,UnitedHealth Group,US,Growth,0.0200,0.1682,0.2315,0.0333
+CI,Cigna Group,US,Growth,0.0225,0.1682,0.2443,0.0365
+CMCSA,Comcast,US,Growth,0.0125,0.1249,0.2375,0.0213
+VZ,Verizon,US,Growth,0.0200,0.1039,0.1969,0.0280
+PYPL,PayPal,US,Growth,0.0100,0.1680,0.3416,0.0239
+ADBE,Adobe,US,Growth,0.0100,0.1473,0.3088,0.0222
+USMV,iShares MSCI USA Min Vol Factor ETF,US,Growth,0.0100,0.0600,0.1243,0.0152
+T,AT&T,US,Growth,0.0250,0.1350,0.1959,0.0344
+XLU,Utilities Select Sector SPDR ETF,US,Growth,0.0100,0.0650,0.1315,0.0144
+O,Realty Income,US,Real assets,0.0150,0.1138,0.1894,0.0265
+VICI,VICI Properties,US,Real assets,0.0150,0.1574,0.2147,0.0292
+VNQ,Vanguard Real Estate ETF,US,Real assets,0.0100,0.0700,0.1582,0.0189
+IEF,iShares 7-10Y Treasury ETF,US,Hedge,0.0250,0.0500,0.1224,0.0228
+VTIP,Vanguard Short-Term TIPS ETF,US,Hedge,0.0325,0.0470,0.0948,0.0235
+SGOV,iShares 0-3M T-Bill ETF,US,Hedge,0.0375,0.0420,0.0901,0.0228
+IAU,iShares Gold Trust,US,Hedge,0.0150,0.0400,0.1836,0.0208
+DBMF,iMGP DBi Managed Futures ETF,US,Hedge,0.0400,0.0550,0.1497,0.0281
+TAIL,Cambria Tail Risk ETF,US,Hedge,0.0450,0.0100,0.1501,0.0207
+BTAL,AGF US Market Neutral Anti-Beta ETF,US,Hedge,0.0450,0.0200,0.1611,0.0037
+PDBC,Invesco Optimum Yield Diversified Commodity ETF,US,Hedge,0.0150,0.0450,0.2093,0.0219
+KMLM,KFA Mount Lucas Managed Futures ETF,US,Hedge,0.0350,0.0550,0.1601,0.0259
+069500,KODEX 200,KR,Growth,0.0200,0.0850,0.1939,0.0218
+005935,Samsung Electronics Pref.,KR,Growth,0.0100,0.1290,0.3197,0.0147
+105560,KB Financial Group,KR,Growth,0.0175,0.1265,0.2452,0.0228
+086790,Hana Financial Group,KR,Growth,0.0200,0.1397,0.2506,0.0265
+000270,Kia,KR,Growth,0.0200,0.1655,0.2816,0.0289
+005380,Hyundai Motor,KR,Growth,0.0125,0.1242,0.2816,0.0174
+033780,KT&G,KR,Growth,0.0300,0.1157,0.1725,0.0148
+015760,Korea Electric Power,KR,Growth,0.0300,0.2444,0.2715,0.0220
+055550,Shinhan Financial Group,KR,Growth,0.0175,0.1315,0.2452,0.0228
+024110,Industrial Bank of Korea,KR,Growth,0.0300,0.2281,0.2250,0.0335
+005830,DB Insurance,KR,Growth,0.0300,0.2228,0.2046,0.0256
+086280,Hyundai Glovis,KR,Growth,0.0250,0.1603,0.2621,0.0300
+329200,TIGER REITs & Real Estate Infra,KR,Real assets,0.0225,0.0750,0.1296,0.0146
+152380,KODEX 10Y KTB Futures,KR,Hedge,0.0150,0.0420,0.0575,0.0033
+261240,KODEX USD Futures,KR,Hedge,0.0100,-0.0120,0.0901,0.0061
+459580,KODEX CD Rate Active,KR,Hedge,0.0100,0.0280,0.0030,0.0000
+132030,KODEX Gold Futures (H),KR,Hedge,0.0150,0.0260,0.1513,0.0117
+114260,KODEX 3Y KTB,KR,Hedge,0.0150,0.0330,0.0233,0.0014
+114800,KODEX Inverse (KOSPI 200),KR,Hedge,0.0100,-0.0300,0.1921,-0.0108
+1306,NEXT FUNDS TOPIX ETF,JP,Growth,0.0200,0.0750,0.1669,0.0237
+TM,Toyota Motor (NYSE ADR),JP,Growth,0.0175,0.1196,0.2470,0.0253
+9432,NTT,JP,Growth,0.0300,0.1215,0.1660,0.0231
+1343,NEXT FUNDS REIT Index ETF,JP,Real assets,0.0200,0.0650,0.1651,0.0199
+2561,iShares Core Japan Govt Bond ETF,JP,Hedge,0.0325,0.0250,0.1256,0.0159
+>>>>>>> efe4472c87b93f627888289bbd503438331e197b

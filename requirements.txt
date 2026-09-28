@@ -1,4 +1,8 @@
 numpy
+<<<<<<< HEAD
+=======
+pandas
+>>>>>>> efe4472c87b93f627888289bbd503438331e197b
 scipy
 matplotlib
 jupyter
