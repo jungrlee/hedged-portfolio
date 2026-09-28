@@ -1,4 +1,4 @@
-# Hedged US–Korea–Japan Multi-Asset Portfolio
+# Jung Ryul LeePortfolio
 
 A portfolio construction project for a Korean (KRW-based) investor: a systematic stock screen and valuation across the US, Korea and Japan, a hedge sleeve built from ETFs, and a two-pass portfolio optimisation.
 
