@@ -1,0 +1,300 @@
+US|NVDA|NVIDIA Corporation|Semiconductors|225.07|5.43T|28.46|18.68|23.73|42.79|117.21%|0.44%|2.22|127.01B|23.61B|64.04%
+US|AAPL|Apple Inc.|Technology|341.07|4.98T|39.13|37.05|46.34|36.42|148.75%|0.32%|1.09|136.68B|62.17B|13.23%
+US|AMZN|Amazon.com, Inc.|Technology|249.67|2.69T|20.08|26.63|4.88|NA|30.56%|NA|1.44|-11.63B|-128.65B|22.84%
+US|META|Meta Platforms, Inc.|Technology|751.66|1.91T|28.32|23.27|7.33|46.73|29.85%|0.28%|1.24|40.98B|-22.06B|11.40%
+US|AVGO|Broadcom Inc.|Semiconductors|352.81|1.68T|45.03|20.38|16.90|42.74|44.25%|0.74%|1.46|39.40B|-35.44B|64.87%
+US|TSLA|Tesla, Inc.|Consumer Cyclical|372.11|1.47T|386.14|195.27|16.92|255.06|4.67|NA|1.84|5.76B|27.44B|24.30
+US|MU|Micron Technology, Inc.|Semiconductors|1082.28|1.22T|24.42|7.38|12.13|46.70|66.64%|0.06%|2.22|26.17B|23.75B|178.73%
+US|LLY|Eli Lilly and Company|Pharmaceutical|1183.46|1.05T|39.73|28.40|31.14|57.99|102.29|0.58|0.50|18.19B|-45.16B|30.88
+US|AMD|Advanced Micro Devices, Inc.|Semiconductors|630.63|1.03T|160.96|56.99|15.31|122.51|10.20%|NA|2.48|8.40B|8.84B|74.80%
+US|BRK.B|Berkshire Hathaway Inc.|Diversified Financial/Insurance|505.48|1.08T|12.62|23.01|1.44|44.69|12.12|NA|0.60|24.22B|236.92B|3.95
+US|JPM|JPMorgan Chase & Co.|Financial Services|343.06|911.92B|14.72|14.15|2.58|NA|17.79%|1.92%|0.98|-162.53B|183.11B|11.50%
+US|WMT|Walmart Inc.|Retail|107.98|856.69B|39.13|36.00|8.73|63.42|22.31|0.92|0.59|13.51B|-63.56B|11.25
+US|V|Visa Inc.|Financial Services|367.38|674.36B|31.27|25.41|19.47|32.09|61.19|0.73|0.76|21.01B|-10.07B|14.10
+US|XOM|ExxonMobil Holdings Corporation|Energy|160.59|660.33B|20.71|12.93|2.55|21.61|12.58|2.57|0.18|30.55B|-31.78B|13.54
+US|JNJ|Johnson & Johnson|Healthcare|271.22|653.61B|31.44|24.21|7.69|29.38|25.74%|1.98%|0.23|22.24B|-28.28B|9.57%
+US|INTC|Intel Corporation|Semiconductors|123.00|646.31B|NA|73.04|7.09|228.30|-10.72%|NA|NA|2.83B|-20.56B|91.87%
+US|MA|Mastercard Incorporated|Financial Services|567.65|497.27B|31.22|26.69|88.74|29.77|241.20|0.61|0.74|16.70B|-12.89B|16.30
+US|ABBV|AbbVie Inc.|Healthcare/Pharmaceuticals|264.34|467.12B|74.68|17.42|NA|25.65|NA|2.62|0.28|18.21B|-64.32B|21.71
+US|PLTR|Palantir Technologies Inc.|Software/Technology|189.67|455.79B|162.22|100.00|46.63|135.72|38.10|NA|1.62|3.36B|9.20B|64.59
+US|CSCO|Cisco Systems, Inc.|Technology|106.70|420.67B|32.04|20.73|8.37|32.95|27.32%|1.58%|0.99|12.77B|-15.27B|12.36%
+US|ORCL|Oracle Corporation|Software|137.10|415.62B|21.50|16.09|6.71|NA|41.19|1.46|1.73|-28.72B|-132.07B|27.38
+US|COST|Costco Wholesale Corporation|Retail|922.77|409.03B|44.45|40.53|11.42|43.56|28.40|0.64|0.86|9.39B|12.73B|9.79
+US|CVX|Chevron Corporation|Energy|204.45|401.05B|19.63|12.70|2.11|14.85|12.23%|3.48%|0.49|27.01B|-28.55B|20.83%
+US|BAC|Bank of America Corporation|Financial Services|56.70|396.49B|13.10|11.51|1.44|4.18|11.20|2.26|1.16|94.74B|79.16B|15.68
+US|LRCX|Lam Research Corporation|Semiconductors|315.21|394.46B|54.72|33.16|31.63|80.65|65.07|0.42|1.86|4.89B|1.46B|34.13
+US|AMAT|Applied Materials, Inc.|Semiconductors|485.00|384.89B|41.84|27.64|15.02|68.45|41.07%|0.44%|1.60|5.62B|1.89B|35.81%
+US|KO|The Coca-Cola Company|Beverages|87.81|377.81B|26.39|25.84|10.45|26.43|42.05%|2.41%|0.34|14.30B|-27.89B|8.05%
+US|CAT|Caterpillar Inc.|Industrial Manufacturing|821.58|377.66B|35.40|28.58|19.47|41.99|56.97%|0.79%|1.59|8.99B|-39.20B|26.90%
+US|MRK|Merck & Co., Inc.|Pharmaceuticals|148.78|367.07B|116.89|17.28|8.76|22.85|6.96|2.29|0.23|16.06B|-46.77B|5.64
+US|DELL|Dell Technologies Inc.|Information Technology|562.89|357.89B|32.84|20.00|NA|41.81|NA|0.45|NA|8.56B|-23.63B|49.79
+US|PG|The Procter & Gamble Company|Consumer Staples|146.23|339.64B|22.08|20.95|6.37|22.42|30.29%|2.98%|0.38|15.15B|-25.08B|4.25%
+US|GE|GE Aerospace|Aerospace & Defense|327.09|339.38B|38.55|38.85|19.24|40.42|48.23%|0.57%|1.35|8.40B|-10.29B|17.47%
+US|MS|Morgan Stanley|Financial Services|196.31|308.32B|15.86|15.14|2.90|NA|17.97%|2.34%|1.21|-18.58B|131.58B|11.89%
+US|PANW|Palo Alto Networks, Inc.|Software/Cybersecurity|374.74|306.54B|998.49|89.46|11.11|74.53|1.74|NA|0.91|4.11B|504.00M|14.40
+US|PM|Philip Morris International Inc.|Tobacco|190.48|296.88B|27.41|21.65|NA|23.34|NA|3.36|0.40|12.72B|-43.14B|9.82
+US|NFLX|Netflix, Inc.|Entertainment/Streaming|71.15|296.24B|22.41|20.55|9.82|26.56|49.54%|NA|1.53|11.15B|-7.53B|21.77%
+US|HD|The Home Depot, Inc.|Retail|293.20|292.52B|20.52|19.01|17.61|19.37|104.30%|3.18%|0.95|15.10B|-61.10B|5.83%
+US|GS|The Goldman Sachs Group, Inc.|Financial Services|935.45|283.22B|14.47|13.76|2.58|NA|16.90%|2.14%|1.28|-41.52B|259.37B|14.39%
+US|ANET|Arista Networks, Inc.|Networking/Technology|206.55|260.51B|65.37|44.47|17.60|50.53|31.48%|NA|1.62|5.16B|13.34B|29.14%
+US|SNDK|Sandisk Corporation|Semiconductors|1777.80|260.30B|24.10|8.31|16.83|22.65|91.64%|NA|NA|11.49B|6.34B|51.67%
+US|CRWD|CrowdStrike Holdings, Inc.|Cybersecurity|252.13|258.72B|5749.93|178.75|50.60|160.82|1.46|NA|1.26|1.61B|4.19B|30.77
+US|RTX|RTX Corporation|Aerospace & Defense|189.40|255.27B|33.34|25.68|3.85|22.38|12.27%|1.54%|0.29|11.41B|-30.55B|11.13%
+US|GEV|GE Vernova Inc.|Energy/Renewable Energy|957.63|255.05B|27.41|45.68|21.33|20.51|82.58%|0.21%|0.97|12.44B|9.00B|29.18%
+US|TXN|Texas Instruments Incorporated|Semiconductors|278.07|253.95B|42.24|28.73|14.10|47.42|35.18%|2.19%|1.31|5.36B|-7.05B|32.47%
+US|WFC|Wells Fargo & Company|Banking/Financial Services|82.97|250.90B|12.06|11.19|1.52|13.09|12.58%|2.41%|0.92|19.17B|17.94B|13.03%
+US|TMO|Thermo Fisher Scientific Inc.|Life Sciences/Diagnostics|675.00|249.58B|36.32|25.69|4.74|34.10|13.52%|0.28%|0.85|7.32B|-38.49B|10.08%
+US|KLAC|KLA Corporation|Semiconductor Equipment|187.92|245.24B|51.34|34.45|38.68|65.10|87.50%|0.49%|1.44|3.77B|-1.25B|29.19%
+US|MRVL|Marvell Technology, Inc.|Semiconductors|261.94|229.70B|88.01|48.00|12.39|132.77|16.52%|0.09%|2.25|1.73B|-1.35B|54.19%
+US|C|Citigroup Inc.|Financial Services|134.28|225.25B|14.60|11.58|1.17|NA|8.53%|2.00%|1.10|-24.51B|214.10B|24.48%
+US|AMGN|Amgen Inc.|Biotechnology|414.61|224.15B|25.76|17.65|19.18|22.03|91.47|2.43|0.43|10.18B|-43.32B|5.69
+US|LIN|Linde plc|Industrial Gases|469.89|216.61B|30.32|25.13|5.54|43.54|18.40%|1.36%|0.73|4.98B|-23.12B|9.36%
+US|QCOM|QUALCOMM Incorporated|Semiconductors|201.97|215.72B|23.50|21.85|7.72|20.71|33.75%|1.82%|1.68|10.42B|-6.97B|2.15%
+US|IBM|International Business Machines Corporation|Technology/Computing|225.51|212.46B|20.05|17.66|6.17|15.41|34.46%|3.00%|0.71|13.79B|-57.14B|7.35%
+US|AXP|American Express Company|Financial Services|308.89|208.60B|18.75|16.56|6.08|13.86|34.38|1.23|1.05|15.05B|-13.34B|14.29
+US|STX|Seagate Technology Holdings plc|Technology|916.83|208.48B|65.96|25.62|95.95|67.14|371.53|0.32|2.09|3.11B|-2.19B|71.28
+US|APH|Amphenol Corporation|Electronics/Electrical Equipment|84.09|207.36B|42.07|28.48|13.38|43.99|38.12|0.59|1.24|4.71B|-13.39B|31.21
+US|VZ|Verizon Communications Inc.|Telecommunications|47.08|195.61B|12.27|9.28|1.88|9.08|15.84%|6.01%|0.24|21.53B|-191.30B|6.81%
+US|CRM|Salesforce, Inc.|Software/Cloud Computing|234.02|192.60B|21.69|15.95|5.02|12.71|19.38%|0.75%|1.20|15.15B|-30.97B|13.83%
+US|ADI|Analog Devices, Inc.|Semiconductors|393.60|190.72B|46.74|24.73|5.68|38.63|12.23%|1.12%|1.20|4.94B|-6.84B|35.02%
+US|GILD|Gilead Sciences, Inc.|Pharmaceuticals|150.93|187.15B|NA|16.53|15.83|14.46|-20.68%|2.17%|0.35|12.94B|-21.36B|9.20%
+US|DE|Deere & Company|Machinery/Agriculture|690.46|186.17B|38.39|32.87|6.65|57.65|18.24|0.94|0.91|3.23B|-57.64B|15.63
+US|DIS|The Walt Disney Company|Entertainment|106.15|183.29B|21.94|14.14|1.67|22.10|8.01%|1.41%|1.41|8.29B|-40.86B|11.86%
+US|TMUS|T-Mobile US, Inc.|Telecommunications|165.43|177.45B|17.34|13.20|3.16|9.64|17.99%|2.83%|0.33|18.40B|-117.60B|16.90%
+US|BLK|BlackRock, Inc.|Financial Services|1086.31|176.50B|25.97|18.20|2.92|50.21|12.28%|2.11%|1.43|3.52B|-1.13B|15.83%
+US|PEP|PepsiCo, Inc.|Consumer Staples|128.63|175.57B|16.86|14.78|7.95|18.91|51.51%|4.60%|0.36|9.28B|-42.50B|5.08%
+US|ABT|Abbott Laboratories|Healthcare|101.29|175.27B|32.77|17.46|3.43|22.40|10.58%|2.49%|0.59|7.82B|-27.12B|9.26%
+US|T|AT&T Inc.|Telecommunications|25.38|173.91B|8.37|10.55|1.58|9.85|18.34%|4.37%|0.43|17.65B|-148.19B|11.17%
+US|SCHW|The Charles Schwab Corporation|Financial Services|99.03|171.26B|18.04|13.69|3.90|15.87|20.27%|1.29%|0.75|10.79B|20.58B|22.72%
+US|ETN|Eaton Corporation plc|Industrial|439.98|170.89B|44.79|29.26|8.44|43.44|19.68%|1.00%|1.17|3.93B|-20.63B|16.00%
+US|MCD|McDonald's Corporation|Restaurants/Food Service|236.50|167.36B|19.21|17.91|NA|21.56|NA|3.26|0.41|7.76B|-53.78B|6.49
+US|WELL|Welltower Inc.|Real Estate (REIT)|231.37|166.76B|104.87|83.89|3.58|102.74|3.84|1.47|0.76|1.62B|-17.76B|NA
+US|WDC|Western Digital Corporation|Technology|456.81|164.70B|18.82|22.74|18.60|46.91|130.85%|0.13%|2.18|3.51B|0.388B|63.70%
+US|PFE|Pfizer Inc.|Pharmaceuticals|28.67|163.41B|37.69|10.35|1.92|14.88|5.01%|6.00%|0.30|10.99B|-51.78B|-8.50%
+US|UNP|Union Pacific Corporation|Transportation/Railroad|273.79|162.65B|22.17|20.21|7.87|25.01|39.70%|2.08%|0.97|6.50B|-29.06B|9.92%
+US|NEE|NextEra Energy, Inc.|Utilities|76.08|158.70B|17.10|18.56|2.78|NA|11.68%|3.28%|0.64|-16.57B|-107.33B|8.62%
+US|DHR|Danaher Corporation|Life Sciences|224.49|157.81B|39.98|25.37|3.00|28.87|7.60%|0.71%|0.81|5.47B|-23.51B|9.52%
+US|BA|The Boeing Company|Aerospace & Defense|198.07|156.55B|73.86|169.77|25.67|NA|173.54%|NA|1.21|-210.00M|-29.07B|87.82%
+US|COP|ConocoPhillips|Energy|127.30|152.93B|16.91|12.51|2.34|15.20|14.18%|2.64%|0.13|10.06B|-15.60B|16.85%
+US|BX|Blackstone Inc.|Financial Services|118.42|147.29B|26.51|18.47|10.51|26.85|31.37%|4.00%|1.56|5.49B|-12.64B|14.17%
+US|ISRG|Intuitive Surgical, Inc.|Medical Devices|405.18|143.14B|46.46|35.86|7.89|44.42|17.42%|NA|1.46|3.22B|5.22B|15.09%
+US|TJX|The TJX Companies, Inc.|Retail|130.06|143.06B|24.07|24.05|13.45|24.35|62.17%|1.48%|0.59|5.88B|-8.31B|11.02%
+US|UBER|Uber Technologies, Inc.|Transportation/Mobility|69.62|142.20B|15.19|17.02|5.20|14.06|37.16%|NA|1.16|10.12B|-4.74B|30.88%
+US|NOW|ServiceNow, Inc.|Software|135.62|140.21B|84.73|29.93|11.20|30.61|14.24%|NA|0.97|4.58B|-1.75B|19.96%
+US|GLW|Corning Incorporated|Materials/Manufacturing|156.74|135.01B|72.31|42.29|11.31|56.37|16.81|0.71|1.15|2.40B|-6.88B|33.26
+US|VRTX|Vertex Pharmaceuticals Incorporated|Pharmaceuticals|526.19|133.37B|30.62|40.72|6.58|35.13|23.54%|NA|0.32|3.80B|11.66B|8.23%
+US|PLD|Prologis, Inc.|Real Estate (REIT)|133.05|129.00B|29.63|38.01|2.31|NA|7.75%|3.22%|1.32|-459.56M|-35.33B|1.65%
+US|CB|Chubb Limited|Insurance|333.37|128.61B|11.79|11.92|1.71|8.36|14.82%|1.22%|0.38|15.38B|-22.50B|8.30%
+US|BMY|Bristol-Myers Squibb Company|Pharmaceuticals|62.86|128.41B|13.84|9.77|5.75|11.22|46.60%|4.01%|0.23|11.44B|-33.59B|-2.87%
+US|FTNT|Fortinet, Inc.|Information Technology|173.46|127.27B|61.29|49.42|82.04|40.83|117.44%|NA|1.06|3.12B|3.51B|16.06%
+US|NEM|Newmont Corporation|Gold Mining|121.43|127.10B|15.36|13.38|3.65|13.06|25.91%|0.86%|0.54|9.73B|3.83B|16.60%
+US|PH|Parker-Hannifin Corporation|Industrial Equipment Manufacturing|978.33|123.38B|34.35|27.55|8.01|31.60|25.08|0.82|1.12|3.91B|-8.23B|10.66
+US|BKNG|Booking Holdings Inc.|Travel & Leisure|163.95|123.19B|18.12|14.73|NA|12.91|NA|1.03|NA|9.54B|-3.41B|16.37%
+US|COF|Capital One Financial Corporation|Financial Services|200.20|122.82B|12.83|9.09|1.19|4.14|9.03%|1.60%|1.02|29.70B|7.65B|11.44%
+US|LMT|Lockheed Martin Corporation|Defense/Aerospace|519.56|119.91B|19.14|16.85|13.63|13.74|89.16|2.66|0.10|8.73B|-16.75B|17.95
+US|PGR|The Progressive Corporation|Insurance|205.50|119.47B|10.31|12.33|3.48|7.49|34.94%|0.19%|0.26|15.95B|-8.21B|-4.12%
+US|SPGI|S&P Global Inc.|Financial Services|403.30|118.88B|24.56|21.35|3.77|21.33|14.25%|0.96%|1.08|5.57B|-11.61B|8.83%
+US|MO|Altria Group, Inc.|Tobacco|68.82|114.91B|14.50|11.94|NA|12.61|NA|6.45|0.49|9.11B|-22.21B|3.77
+US|CVS|CVS Health Corporation|Healthcare|89.13|113.99B|23.35|10.98|1.43|9.70|6.21%|2.98%|0.58|11.76B|-62.35B|12.88%
+US|MDT|Medtronic plc|Healthcare/Medical Devices|88.64|113.38B|21.83|14.75|2.26|18.49|10.65%|3.25%|0.57|6.13B|-19.17B|7.69%
+US|ADBE|Adobe Inc.|Software/Technology|235.47|91.64B|13.14|8.76|7.83|8.65|61.90%|NA|1.42|10.59B|-1.15B|14.44%
+US|PYPL|PayPal Holdings, Inc.|Financial Services|55.04|47.08B|10.38|9.91|2.39|7.15|24.50%|1.02%|1.29|6.59B|-2.97B|6.00%
+US|CI|The Cigna Group|Healthcare|272.01|71.88B|11.25|8.59|1.68|7.89|16.76%|2.29%|0.32|9.11B|-24.62B|7.50%
+US|CMCSA|Comcast Corporation|Telecommunications|21.91|77.75B|7.09|6.29|0.87|3.80|11.49%|6.03%|0.66|20.44B|-82.72B|-3.81%
+US|O|Realty Income Corporation|Real Estate (REIT)|55.54|52.54B|40.59|33.72|1.33|NA|3.22|5.86|0.71|-1.98B|-30.76B|10.91
+US|VICI|VICI Properties Inc.|Real Estate (REIT)|23.51|25.89B|9.13|8.02|0.89|9.90|9.85%|7.83%|0.68|2.61B|-17.54B|NA
+US|GOOGL|Alphabet Inc.|Technology|343.92|4.21T|17.26|25.72|6.76|78.95|48.68%|0.26%|1.22|53.27B|121.68B|17.66%
+US|MSFT|Microsoft Corporation|Technology|516.17|3.83T|28.76|26.12|8.67|57.22|34.04|0.76|1.11|66.99B|-51.97B|18.64
+US|UNH|UnitedHealth Group Incorporated|Healthcare|376.59|338.03B|24.24|17.70|3.46|14.31|14.15%|2.46%|0.62|23.62B|-44.74B|16.99%
+KR|005930|Samsung Electronics Co., Ltd.|Semiconductors/Electronics|285500|1822.51T|14.01|4.62|3.15|12.59|30.79%|0.79%|1.54|144.80T|167.59T|124.83%
+KR|000660|SK hynix Inc.|Semiconductors|1862000|1357.15T|8.18|4.55|5.17|14.80|92.68%|0.16%|2.39|91.69T|66.87T|105.17%
+KR|402340|SK Square Co., Ltd.|Holding company (semis)|939000|123.66T|7.98|2.84|3.41|323.43|54.39|0.16|2.47|382.34B|1.30T|89.87
+KR|005380|Hyundai Motor Company|Automotive|353500|82.08T|13.12|8.25|0.61|NA|7.16%|2.83%|1.73|-10614.89B|-102580.33B|12.46%
+KR|373220|LG Energy Solution, Ltd.|Energy/Battery|369500|86.46T|NA|73.33|2.85|NA|-5.15%|NA|1.00|-5245.78B|-21985.56B|NA
+KR|207940|Samsung Biologics Co.,Ltd.|Biopharmaceuticals|1366000|63.16T|32.17|30.68|7.55|38.79|18.53%|NA|0.21|1.63T|971.66B|27.78%
+KR|028260|Samsung C&T Corporation|Construction & Trading|367000|58.63T|23.82|11.51|0.84|23.53|7.48%|0.79%|1.18|2.49T|1.83T|9.12%
+KR|032830|Samsung Life Insurance Co., Ltd.|Insurance|310000|55.67T|19.39|14.66|0.67|28.26|5.25%|1.92%|1.07|1.97T|-29055.67B|20.86%
+KR|012450|Hanwha Aerospace Co., Ltd.|Aerospace|1137000|55.62T|27.30|17.39|2.75|75.54|20.81%|0.67%|0.83|736.22B|-6685.38B|30.93%
+KR|034020|Doosan Enerbility Co., Ltd.|Energy/Industrial|81700|52.22T|288.84|98.01|4.12|1804.45|2.59|NA|1.77|28.94B|-4504.38B|122.15
+KR|055550|Shinhan Financial Group Co., Ltd.|Bank|110000|52.21T|10.10|8.85|0.84|NA|8.94|3.28|0.64|-26356.00B|-25527.99B|14.30
+KR|329180|HD Hyundai Heavy Industries Co., Ltd.|Shipbuilding|460000|48.27T|17.96|13.37|4.58|13.54|30.09|2.65|1.06|3.56T|4.92T|37.21
+KR|000270|Kia Corporation|Automotive|115400|44.85T|6.35|5.46|0.69|6.67|11.60|5.89|1.01|6.72T|21.29T|9.51
+KR|068270|Celltrion, Inc.|Biopharmaceutical|179400|40.98T|26.23|29.19|2.27|49.79|9.11|0.40|0.30|823.07B|-2608.57B|25.04
+KR|009150|Samsung Electro-Mechanics Co., Ltd.|Electronics Manufacturing|1142000|84.20T|96.04|36.04|8.00|505.49|NA|0.21|NA|166.58B|320.00B|87.49
+KR|066570|LG Electronics Inc.|Electronics|180000|29.58T|38.80|10.69|0.97|13.23|4.78|0.95|2.06|2.24T|-5.356T|54.44
+KR|086790|Hana Financial Group Inc.|Bank|134300|36.21T|9.21|7.88|0.75|NA|8.97|3.00|0.70|-31864.90B|48.11T|11.52
+KR|034730|SK Inc.|Holding company|543000|29.62T|3.53|2.98|0.25|NA|29.37|1.36|1.62|-185.50B|-49601.48B|84.77
+KR|012330|Hyundai Mobis Co.,Ltd|Auto Parts|367500|32.50T|9.01|7.18|0.63|11.92|7.40|1.77|1.36|2.73T|8.91T|11.39
+KR|010120|LS ELECTRIC Co., Ltd.|Electrical Equipment|205500|30.58T|78.81|48.08|13.89|NA|18.45|0.29|1.83|-186.75B|-778.02B|51.19
+KR|035420|NAVER Corporation|Internet|220500|33.03T|16.46|15.91|1.06|22.57|6.42|1.21|1.19|1.46T|3.36T|8.89
+KR|000810|Samsung Fire & Marine Insurance Co., Ltd.|Insurance|615000|25.58T|13.92|10.84|1.06|6.39|10.33|3.19|0.41|4.00T|-315.59B|10.19
+KR|298040|Hyosung Heavy Industries Corporation|Industrial/Heavy Machinery|2915000|27.14T|46.40|28.17|9.95|52.87|23.45|0.26|2.17|513.43B|-52.32B|42.41
+KR|000150|Doosan Corporation|Industrial Conglomerates|1191000|17.98T|299.40|53.75|1.35|36.88|2.69|0.34|1.95|487.54B|-5090.86B|150.05
+KR|316140|Woori Financial Group Inc.|Bank|33200|24.07T|8.00|6.56|0.59|8.67|8.61|3.93|0.52|2.78T|-51989.26B|9.24
+KR|267260|HD Hyundai Electric Co., Ltd.|Electrical Equipment|708000|25.48T|29.95|22.40|11.28|38.00|43.59|0.73|1.18|670.55B|826.88B|26.86
+KR|096770|SK Innovation Co., Ltd.|Energy/Oil & Gas|108300|18.79T|NA|11.93|0.49|NA|-10.50|NA|1.22|-1735.13B|-26868.66B|NA
+KR|042660|Hanwha Ocean Co., Ltd.|Shipbuilding/Defense|85600|26.22T|15.09|16.29|3.48|40.26|32.53|NA|0.93|651.30B|-4715.79B|27.47
+KR|009540|HD Korea Shipbuilding & Offshore Engineering|Shipbuilding|382000|26.27T|10.44|6.44|1.52|8.24|21.76|3.23|1.22|3.19T|8.22T|28.73
+KR|005490|POSCO Holdings Inc.|Steel/Materials|317000|23.97T|17.79|11.19|0.37|NA|2.21|2.52|1.66|-2066.70B|-17525.33B|59.60
+KR|042700|HANMI Semiconductor Co., Ltd.|Semiconductors|192300|18.24T|102.67|44.63|28.69|171.51|30.80|0.40|2.16|106.35B|173.42B|37.32
+KR|010130|Korea Zinc Company, Ltd.|Metals & Mining|1106000|22.55T|21.46|20.41|1.97|NA|10.06|1.81|0.66|-1209.31B|-4780.11B|13.78
+KR|138040|Meritz Financial Group Inc.|Financial Services|122000|20.11T|9.07|7.92|1.71|NA|21.34|NA|0.99|-7597.82B|28.13T|17.71
+KR|051910|LG Chem, Ltd.|Chemicals|276000|20.47T|NA|15.48|0.43|NA|-5.93|0.77|1.46|-5691.63B|-26000.25B|NA
+KR|011200|HMM Co.,Ltd|Shipping|22650|20.04T|14.27|13.27|0.70|168.08|NA|3.29|0.76|119.25B|-4463.81B|-14.69
+KR|015760|Korea Electric Power Corporation|Utilities|32050|20.48T|2.61|3.20|0.40|12.84|16.59|4.73|0.83|1.59T|-130.66T|1.32
+KR|017670|SK Telecom Co., Ltd.|Telecommunications|93100|20.07T|27.58|12.96|1.30|14.77|5.19|3.25|0.69|1.36T|-8.20T|55.70
+KR|010950|S-Oil Corporation|Energy/Oil Refining|157300|17.99T|12.07|6.85|1.78|NA|16.33|0.22|0.75|-1035.27B|-7525.63B|108.35
+KR|033780|KT&G Corporation|Tobacco|174300|18.09T|12.72|12.96|1.86|40.57|15.17|3.44|0.20|446.05B|-338.18B|12.96
+KR|010140|Samsung Heavy Industries Co., Ltd.|Shipbuilding|21200|18.11T|32.00|15.36|3.84|5.35|13.37|NA|1.07|3.38T|1.00T|46.55
+KR|003550|LG Corp.|Holding company|111900|17.12T|23.72|12.48|0.52|18.97|3.46|2.77|1.19|902.63B|2.54T|31.46
+KR|018260|Samsung SDS Co., Ltd.|IT Services|219500|16.98T|26.34|19.71|1.60|19.70|6.54|1.45|1.28|861.91B|5.70T|8.85
+KR|006400|Samsung SDI Co., Ltd.|Battery|545000|42.42T|951.82|41.02|1.58|NA|0.20|NA|1.75|-2121.14B|-10674.89B|NA
+KR|024110|Industrial Bank of Korea|Bank|21150|16.95T|6.86|6.29|0.46|NA|7.43|4.93|0.41|-18222.56B|-143210.85B|7.27
+KR|003670|Posco Future M Co., Ltd.|Battery Materials|176000|15.65T|1169.55|327.57|3.32|NA|1.36|NA|1.72|-824.69B|-3514.58B|228.35
+KR|079550|LIG Defense&Aerospace Co., Ltd.|Defense & Aerospace|787000|17.19T|55.29|38.80|11.05|NA|20.73|0.37|0.77|-1038.83B|-1494.76B|40.09
+KR|086280|Hyundai Glovis Co., Ltd.|Logistics|201500|15.19T|9.86|8.57|1.39|10.95|15.20|2.83|1.01|1.39T|0.5445T|4.90
+KR|035720|Kakao Corp.|Internet|35050|15.51T|30.64|21.21|1.03|26.39|3.72|0.21|1.14|587.69B|11.11T|24.37
+KR|267250|HD Hyundai Co., Ltd.|Holding company (shipbuilding/energy)|210500|14.88T|9.76|6.21|0.47|2.98|16.76|2.34|1.07|4.99T|-3.85T|31.21
+KR|272210|Hanwha Systems Co., Ltd.|Defense/Aerospace|76800|14.30T|75.88|45.79|3.13|NA|2.38|0.65|1.47|-168.98B|-1724.43B|31.92
+KR|278470|APR Co., Ltd.|Cosmetics/Beauty devices|368500|14.11T|32.76|20.20|21.78|49.20|81.84|1.29|1.02|286.88B|195.25B|52.23
+KR|000720|Hyundai Engineering & Construction|Construction|120700|13.50T|30.47|25.68|1.20|NA|5.71|0.73|1.42|-785.83B|-623.16B|33.39
+KR|030200|KT Corporation|Telecommunications|53400|12.87T|9.95|7.32|0.63|5.91|7.15|4.49|0.09|2.18T|-8221B|-1.16
+KR|011070|LG Innotek Co., Ltd.|Electronic Components|557000|13.18T|19.88|13.26|2.07|58.47|11.39|0.34|2.33|225.45B|-942.54B|56.60
+KR|064350|Hyundai Rotem Company|Industrials/Defense|115900|12.65T|15.66|10.99|3.75|7.59|26.95|0.52|1.66|1.67T|2.45T|28.11
+KR|047810|Korea Aerospace Industries, Ltd.|Aerospace & Defense|128900|12.77T|72.02|28.67|6.44|NA|9.57|0.37|0.64|-805.63B|-2.78T|46.61
+KR|005830|DB Insurance Co., Ltd.|Insurance|190900|11.68T|7.38|6.67|1.00|5.83|16.12|3.98|0.25|2.00T|-4257.22B|7.26
+KR|071050|Korea Investment Holdings Co., Ltd.|Financial Services|191300|10.93T|4.14|4.13|0.79|NA|24.31|4.75|1.43|-14048.40B|-60967.00B|7.35
+KR|443060|HD Hyundai Marine Solution Co., Ltd.|Marine Services|197200|8.84T|29.04|25.23|10.44|34.84|38.96|2.09|0.67|253.76B|581.23B|24.69
+KR|078930|GS Holdings Corp.|Oil & Gas Refining|118700|11.45T|4.96|6.16|0.54|11.48|13.33|2.42|0.53|997.98B|-6165.40B|21.15
+KR|307950|Hyundai Autoever Corporation|IT Services|456000|13.20T|73.03|57.84|7.14|64.20|10.43|0.38|2.09|205.68B|508.99B|24.33
+KR|005940|NH Investment & Securities Co., Ltd.|Capital Markets|27800|10.54T|6.92|6.77|NA|NA|NA|4.59|0.84|-6159.18B|NA|10.20
+KR|090430|Amorepacific Corporation|Personal Care|142900|8.73T|39.20|20.67|1.55|19.95|5.40|0.87|0.98|437.73B|808.69B|31.73
+KR|028050|Samsung E&A Co., Ltd.|Engineering & Construction|49350|9.67T|14.59|12.58|2.05|NA|15.81|1.60|1.23|-237.56B|3.66T|18.99
+KR|323410|KakaoBank Corp.|Bank|21850|10.43T|19.65|14.96|1.57|NA|8.07|2.14|1.38|-2511.95B|25.06T|15.43
+KR|047050|Posco International Corporation|Trading/Energy|51200|8.76T|11.81|10.12|1.13|13.51|10.26|3.90|1.45|648.51B|-6718.08B|13.29
+KR|180640|Hanjin Kal Corp.|Holding/Airlines|117900|7.89T|47.71|NA|2.25|67.03|5.00|0.31|0.86|117.67B|-141.42B|NA
+KR|000880|Hanwha Corporation|Conglomerate|137400|6.77T|10.33|6.04|0.12|3.58|7.98|0.78|1.60|1.89T|53.51B|73.91
+KR|105560|KB Financial Group Inc.|Bank|173200|61.21T|10.29|9.17|0.98|NA|10.22|2.52|0.63|-29575.02B|-24998.33B|11.49
+KR|003230|Samyang Foods Co., Ltd.|Food Manufacturing|1420000|11.11T|22.70|18.81|7.18|50.29|38.34|0.38|0.04|220.94B|82.44B|27.08
+KR|006260|LS Corp.|NA|332000|9.00T|26.53|16.45|1.16|NA|7.84|0.83|1.95|-1564.07B|-9039.28B|38.57
+KR|007660|ISU Petasys Co., Ltd.|NA|109900|8.07T|40.16|23.12|9.38|NA|26.35|0.21|2.05|-112.10B|-40.82B|49.09
+KR|259960|KRAFTON, Inc.|Gaming|200000|8.69T|10.61|8.54|1.18|9.14|11.71|1.12|0.71|950.63B|2.43T|19.31
+KR|003490|Korean Airlines Co.,Ltd.|Airlines|27150|10.02T|16.51|20.85|0.89|11.25|2.97|2.76|0.82|890.50B|-17613.63B|24.55
+KR|016360|Samsung Securities Co.,Ltd.|Financial Services|85900|7.68T|5.25|4.94|0.89|NA|18.11|4.62|0.92|-7434.16B|965.30B|14.21
+KR|047040|Daewoo Engineering & Construction Co., Ltd.|Construction|18800|7.43T|NA|14.27|1.89|NA|-14.00|NA|1.81|-749.93B|-3102.38B|NA
+KR|021240|COWAY Co., Ltd.|NA|95200|6.68T|9.86|9.08|1.75|NA|19.32|1.97|0.64|-208.56B|-2.53T|11.98
+KR|161390|Hankook Tire & Technology Co., Ltd.|Automotive/Tires|63500|7.70T|6.35|5.37|0.49|15.99|8.31|3.46|0.54|481.45B|-3505.88B|15.00
+KR|039490|Kiwoom Securities Co., Ltd.|Financial Services|272500|7.36T|5.52|4.43|1.05|NA|21.49|4.21|1.23|-4791.69B|5.09T|10.72
+KR|006800|Mirae Asset Securities Co., Ltd.|Financial Services|32750|15.95T|5.82|6.61|0.98|NA|26.69|0.90|1.44|-12902.54B|-4137.57B|15.32
+KR|064400|LG CNS Co., Ltd.|Technology/IT Services|75400|7.48T|15.54|14.96|2.45|13.77|16.72|3.07|NA|543.07B|1.04T|10.59
+KR|352820|HYBE Co., Ltd.|Entertainment/Music|174200|7.39T|NA|14.74|1.98|70.08|-10.29|0.28|0.82|105.38B|747.75B|NA
+KR|128940|Hanmi Pharm. Co., Ltd.|Pharmaceuticals|515000|6.53T|30.12|29.84|4.11|30.20|16.36|0.39|0.56|216.38B|-8.55B|11.23
+KR|009830|Hanwha Solutions Corporation|NA|35400|7.92T|2.08|13.67|NA|NA|NA|NA|1.46|-2433.03B|NA|NA
+KR|062040|Sanil Electric Co., Ltd.|Electrical Equipment|205500|6.28T|35.44|25.95|9.47|36.29|31.06|0.61|2.89|173.02B|215.56B|34.26
+KR|032640|LG Uplus Corp.|Telecommunications|15020|6.37T|11.96|8.25|0.69|4.36|5.73|4.48|0.25|1.46T|-4.51T|19.84
+KR|267270|HD Construction Equipment Co., Ltd.|Construction Equipment|121700|5.82T|12.43|10.78|1.20|30.87|7.07|0.44|1.27|188.45B|-1021.91B|41.60
+KR|353200|DAEDUCK ELECTRONICS Co., Ltd.|Electronics|119000|5.60T|39.64|20.37|5.73|79.09|16.64|0.42|1.74|70.81B|216.72B|104.51
+KR|001440|Taihan Cable & Solution Co., Ltd.|Industrial/Manufacturing|29950|5.85T|114.12|49.67|3.62|NA|3.41|NA|2.12|-583.04B|-514.30B|37.83
+KR|326030|SK Biopharmaceuticals Co., Ltd.|Biopharmaceuticals|82400|6.45T|18.51|19.82|6.92|40.64|44.16|NA|0.70|158.78B|260.88B|23.91
+KR|000990|DB HiTek CO., LTD.|Semiconductors|125000|5.00T|12.74|11.91|1.95|18.12|17.11|0.89|2.36|276.13B|915.62B|20.37
+KR|175330|JB Financial Group Co., Ltd.|Financial Services|29050|5.39T|7.72|6.93|0.86|NA|12.30|4.33|0.41|-4417.10B|-11648.29B|7.71
+JP|8306|Mitsubishi UFJ Financial Group, Inc.|Financial Services|3658.00|41.17T|20.91|14.44|1.70|NA|9.46|2.63|0.32|-3669.32B|34.72T|NA
+JP|7203|Toyota Motor Corporation|Automotive|3025.00|35.74T|8.66|10.82|0.93|NA|12.40|3.31|0.34|-842.31B|-30602.61B|NA
+JP|9984|SoftBank Group Corp.|Financial Services/Conglomerate|6315.00|35.99T|7.34|NA|1.69|NA|31.96|0.17|1.00|-3323.38B|-23863.66B|NA
+JP|285A|Kioxia Holdings Corporation|Semiconductors|55780|30.57T|22.34|4.28|12.71|26.77|87.11|NA|NA|1.14T|-42.07B|NA
+JP|8316|Sumitomo Mitsui Financial Group, Inc.|Financial Services|6685|25.70T|20.58|14.37|1.58|NA|8.57|2.65|0.39|-17506.45B|55.17T|NA
+JP|8035|Tokyo Electron Limited|Semiconductors|56520|24.51T|39.81|28.69|11.44|62.66|30.93|1.32|1.33|391.25B|409.61B|NA
+JP|6501|Hitachi, Ltd.|Conglomerate|5536.00|24.83T|31.29|23.91|3.67|18.58|NA|1.01|0.54|1.34T|821.92B|NA
+JP|6857|Advantest Corporation|Semiconductors|34000|24.61T|53.95|37.12|23.61|63.40|56.89|0.18|1.18|388.27B|304.96B|NA
+JP|6098|Recruit Holdings Co., Ltd.|Staffing/Human Resources|16235|22.60T|39.75|27.79|12.64|30.50|36.22|0.16|0.95|741.01B|674.22B|NA
+JP|6758|Sony Group Corporation|Electronics/Conglomerate|3710.00|21.79T|19.80|16.74|2.48|13.70|13.16|0.94|0.76|1.59T|299.42B|NA
+JP|8411|Mizuho Financial Group, Inc.|Financial Services|8483.00|20.62T|15.15|13.65|1.78|NA|12.49|1.85|0.38|-6089.21B|44.15T|NA
+JP|9983|Fast Retailing Co., Ltd.|Retail|81230|24.93T|48.00|45.13|8.87|34.63|22.48|0.78|0.47|719.69B|1.39T|NA
+JP|6861|Keyence Corporation|Electronics/Industrial Automation|77270|18.57T|37.73|33.40|5.23|46.16|NA|0.71|1.00|402.31B|1.43T|NA
+JP|8058|Mitsubishi Corporation|Diversified Conglomerate|5005.00|18.33T|20.93|15.39|1.77|12.68|10.08|2.45|0.51|1.45T|-4.65T|NA
+JP|8001|ITOCHU Corporation|Trading Company|2341.00|15.85T|17.67|NA|2.20|22.39|14.09|1.98|0.56|707.92B|-4385.01B|NA
+JP|8766|Tokio Marine Holdings, Inc.|Insurance|7970.00|15.14T|28.09|16.43|1.82|11.23|NA|3.07|-0.17|1.35T|2.02T|NA
+JP|6981|Murata Manufacturing Co., Ltd.|Electronics/Components|7763.00|14.13T|53.33|34.97|5.12|81.43|10.06|0.90|1.20|173.54B|502.10B|NA
+JP|8031|Mitsui & Co., Ltd.|Trading Company|4889.00|13.83T|14.89|14.21|1.50|NA|11.38|2.87|0.45|-387.83B|-4996.36B|NA
+JP|9432|NTT, Inc.|Telecommunications|176.10|14.34T|13.71|13.57|1.39|NA|10.71|3.07|-0.16|-761.84B|-15038.26B|NA
+JP|7011|Mitsubishi Heavy Industries, Ltd.|Industrial Manufacturing|3701.00|12.64T|30.91|30.57|3.90|13.08|14.75|0.78|0.37|966.14B|830.26B|NA
+JP|2914|Japan Tobacco Inc.|Tobacco|6693.00|11.88T|19.48|17.37|2.69|22.23|14.30|4.00|0.15|534.49B|-848.86B|NA
+JP|7182|JAPAN POST BANK Co., Ltd.|Banking|3275.00|11.67T|19.53|16.45|1.26|NA|6.57|2.89|0.43|-5092.84B|33.35T|NA
+JP|9434|SoftBank Corp.|Financial Services|221.60|10.62T|19.67|18.69|2.27|12.89|16.27|3.97|0.07|823.30B|-5045.78B|NA
+JP|9433|KDDI Corporation|Telecommunications|3060.00|11.65T|15.70|15.58|2.06|12.33|14.59|2.75|-0.10|944.65B|-4465.75B|NA
+JP|4519|Chugai Pharmaceutical Co., Ltd.|Pharmaceuticals|6967.00|12.20T|25.89|22.24|6.02|30.45|23.49|1.78|0.56|400.66B|962.57B|NA
+JP|6503|Mitsubishi Electric Corporation|Electrical Equipment|5126.00|10.49T|24.63|18.94|2.22|19.54|10.28|1.17|0.75|536.87B|591.17B|NA
+JP|6752|Panasonic Holdings Corporation|Electronics Manufacturing|4262.00|9.95T|39.30|19.37|1.79|41.99|5.25|1.29|0.85|236.97B|-436.61B|NA
+JP|4063|Shin-Etsu Chemical Co., Ltd.|Chemicals|5844.00|10.87T|22.81|18.69|2.29|28.64|11.23|1.99|1.06|379.53B|1.40T|NA
+JP|4502|Takeda Pharmaceutical Company Limited|Pharmaceuticals|5777.00|9.22T|NA|40.53|1.22|11.95|-2.26|3.45|0.10|771.73B|-5075.52B|NA
+JP|7974|Nintendo Co., Ltd.|Consumer Electronics|8100.00|9.34T|19.77|27.63|3.20|35.56|NA|2.00|0.16|262.62B|1.97T|NA
+JP|8053|Sumitomo Corporation|Trading Company|1798.00|8.52T|13.92|12.63|1.76|13.28|13.61|2.23|0.61|641.46B|-4226.67B|NA
+JP|5803|Fujikura Ltd.|Industrial Manufacturing|4985.00|8.20T|39.75|25.73|12.78|87.39|38.96|0.76|0.75|93.85B|76.38B|NA
+JP|8002|Marubeni Corporation|Trading Company|5049.00|8.21T|14.40|13.21|1.78|18.53|14.21|2.21|0.67|443.24B|-2050.48B|NA
+JP|7741|HOYA Corporation|Optical instruments/Medical devices|23485|7.86T|29.75|27.41|7.62|33.17|NA|1.45|0.58|236.87B|510.10B|NA
+JP|8725|MS&AD Insurance Group Holdings, Inc.|Insurance|5030|7.16T|8.24|12.38|1.06|7.80|16.09|3.38|0.28|918.66B|439.02B|NA
+JP|6178|Japan Post Holdings Co., Ltd.|Financial Services|2407.50|6.43T|18.22|16.00|0.39|NA|4.68|2.57|0.21|-7002.72B|32.41T|NA
+JP|8015|Toyota Tsusho Corporation|Trading Company|6054.00|5.68T|17.25|13.72|1.72|19.10|13.20|2.07|0.83|297.20B|-915.33B|NA
+JP|6702|Fujitsu Limited|Technology|3775.00|6.65T|21.20|21.31|3.23|28.88|16.20|1.45|0.75|230.08B|464.24B|NA
+JP|5802|Sumitomo Electric Industries, Ltd.|Electrical Equipment|2133.00|6.65T|16.60|18.03|2.27|32.79|15.78|1.85|0.86|202.96B|-472.97B|NA
+JP|8750|Daiichi Life Group, Inc.|Insurance|1913.50|6.89T|12.53|12.73|1.51|9.64|13.57|3.76|0.27|714.99B|452.18B|NA
+JP|6301|Komatsu Ltd.|Industrial Machinery|7400.00|6.6T|17.53|16.48|1.78|26.10|11.62|2.57|0.98|252.75B|-1159.58B|NA
+JP|7267|Honda Motor Co., Ltd.|Automotive|1735.50|6.76T|NA|10.24|0.54|24.26|-0.76|4.03|0.31|278.51B|-8874.14B|NA
+JP|4062|Ibiden Co.,Ltd.|Semiconductors|22405|5.47T|83.96|56.62|9.41|58.05|12.65|0.16|1.68|94.14B|188.07B|NA
+JP|8591|ORIX Corporation|Financial Services|6152.00|6.67T|10.85|10.79|1.38|179.60|14.04|2.98|0.71|37.13B|-5339.88B|NA
+JP|6701|NEC Corporation|Information Technology|4580.00|5.96T|22.12|20.70|2.61|16.18|12.56|0.90|0.33|368.14B|169.82B|NA
+JP|6723|Renesas Electronics Corporation|Semiconductors|3192.00|5.83T|17.15|15.78|2.04|13.64|13.95|0.87|1.26|427.54B|-783.47B|21.07
+JP|8630|Sompo Holdings, Inc.|Insurance|6888.00|6.02T|8.70|11.38|1.11|8.96|14.43|2.90|0.15|671.65B|233.16B|NA
+JP|6146|Disco Corporation|NA|52420|5.69T|39.09|27.33|9.76|57.78|27.38|1.04|1.01|98.40B|283.89B|NA
+JP|4578|Otsuka Holdings Co., Ltd.|Pharmaceuticals|11505|5.95T|15.85|18.46|1.87|18.94|12.94|1.24|-0.05|314.13B|343.67B|NA
+JP|6367|Daikin Industries,Ltd.|Heating/Cooling Equipment|20740|5.77T|22.06|20.05|1.89|17.25|9.60|1.74|0.56|334.61B|-281.06B|NA
+JP|8308|Resona Holdings, Inc.|Financial Services|2451.50|5.50T|20.64|15.27|1.81|NA|9.23|1.51|0.31|-4896.18B|6.21T|NA
+JP|6762|TDK Corporation|Electronics/Components|3712.00|6.95T|35.54|30.47|3.15|33.23|9.92|1.09|0.71|209.08B|226.80B|NA
+JP|6954|Fanuc Corporation|Industrial Robotics/Automation|5852.00|5.46T|30.39|26.35|2.86|23.77|10.05|1.91|0.93|229.72B|762.27B|NA
+JP|4568|Daiichi Sankyo Company, Limited|Pharmaceuticals|2893.00|5.38T|22.39|19.57|3.16|NA|NA|3.46|-0.16|-2.33B|137.37B|NA
+JP|8309|Sumitomo Mitsui Trust Group, Inc.|Financial Services|6581|4.53T|14.57|12.03|1.26|NA|9.54|2.89|0.32|-1780.60B|7.25T|NA
+JP|4661|Oriental Land Co., Ltd.|Entertainment/Hospitality|3035.00|4.98T|36.67|37.34|4.41|47.74|NA|0.53|0.31|104.26B|234.37B|NA
+JP|6902|DENSO Corporation|Automotive Components|1900.00|4.83T|12.00|11.77|0.91|22.66|9.20|3.85|0.62|213.23B|75.92B|NA
+JP|2802|Ajinomoto Co., Inc.|Food Manufacturing|5051.00|4.82T|35.11|32.76|5.68|37.70|18.49|0.99|0.37|127.88B|-364.94B|NA
+JP|6971|Kyocera Corporation|Electronics Manufacturing|3764.00|4.89T|30.87|30.09|1.46|57.65|5.06|1.49|0.45|84.76B|96.95B|NA
+JP|5108|Bridgestone Corporation|Tire/Rubber Manufacturing|4320.00|5.38T|13.60|14.30|1.40|11.56|11.27|3.01|0.47|465.15B|-108.08B|NA
+JP|8604|Nomura Holdings, Inc.|Financial Services|1669.00|4.88T|12.54|12.04|1.22|NA|11.16|3.13|0.61|-1196.78B|15.40T|NA
+JP|3382|Seven & i Holdings Co., Ltd.|Retail|2070.50|4.79T|16.30|17.13|1.29|10.41|8.05|2.93|0.10|459.81B|-3217.21B|NA
+JP|1605|Inpex Corporation|Energy|3780.00|4.39T|10.24|8.71|0.82|10.44|9.27|2.77|-0.14|420.79B|-1102.13B|NA
+JP|8802|Mitsubishi Estate Co., Ltd.|Real Estate|3693|4.44T|15.69|21.12|1.53|NA|10.70|1.33|0.36|-15.82B|-3548.36B|NA
+JP|6273|SMC Corporation|Industrial Machinery|72020|4.43T|26.70|24.34|2.09|122.20|8.28|1.38|0.85|36.22B|706.61B|NA
+JP|4503|Astellas Pharma Inc.|Pharmaceuticals|2399.00|4.30T|11.82|11.56|2.21|8.05|21.30|3.34|0.09|534.30B|-345.17B|NA
+JP|4901|FUJIFILM Holdings Corporation|Manufacturing|3203.00|3.82T|14.79|13.09|0.98|NA|7.15|2.26|0.37|-101.29B|-959.71B|NA
+JP|8801|Mitsui Fudosan Co., Ltd.|Real Estate|1510.00|4.06T|17.98|14.38|1.21|NA|6.71|2.44|0.39|-91.14B|-4.85T|NA
+JP|9020|East Japan Railway Company|Transportation|3520.00|3.97T|16.76|NA|1.29|NA|7.95|2.37|0.05|-122.99B|-4.88T|NA
+JP|7751|Canon Inc.|Photography/Electronics|4615.00|3.92T|11.65|13.69|1.06|15.29|10.37|3.42|0.26|256.36B|-525.89B|NA
+JP|7269|Suzuki Motor Corporation|Automotive|1968.50|3.80T|8.65|9.13|0.91|11.17|13.87|2.59|0.39|340.13B|224.67B|NA
+JP|5020|ENEOS Holdings, Inc.|Energy|1243.50|3.32T|12.95|9.05|0.88|9.67|8.50|2.73|0.27|343.16B|-1738.43B|NA
+JP|6920|Lasertec Corporation|Semiconductors|40910|3.67T|47.45|36.49|14.85|77.94|33.93|0.86|1.66|47.05B|91.50B|NA
+JP|8267|Aeon Co., Ltd.|Retail|1332.50|3.69T|39.42|47.21|1.69|6.17|7.20|0.99|0.22|598.05B|-1565.48B|NA
+JP|9022|Central Japan Railway Company|Transportation|3843.00|3.65T|6.71|7.50|0.69|14.33|11.16|0.82|0.16|254.84B|-4425.21B|NA
+JP|5401|Nippon Steel Corporation|Materials/Steel|676.30|3.53T|12.67|11.78|0.58|NA|5.50|3.55|0.65|-146.24B|-5026.01B|NA
+JP|7832|BANDAI NAMCO Holdings Inc.|Entertainment/Gaming|4093.00|2.62T|18.75|18.81|3.04|20.29|17.03|1.78|0.07|128.91B|421.14B|NA
+JP|4689|LY Corporation|NA|531.10|3.64T|18.01|17.54|0.98|6.71|8.32|2.06|0.59|542.61B|-1082.26B|NA
+JP|4543|Terumo Corporation|Medical Devices|2474.00|3.64T|22.15|18.78|2.19|18.98|10.85|1.34|0.23|191.86B|-123.42B|NA
+JP|6594|Nidec Corporation|Industrials|2840.00|3.26T|27.13|19.73|1.83|18.73|6.31|NA|1.04|173.79B|-367.58B|NA
+JP|4452|Kao Corporation|Consumer Goods|3635.00|3.29T|24.31|22.88|2.86|22.32|12.32|2.19|0.18|147.32B|89.45B|NA
+JP|5016|JX Advanced Metals Corporation|Metals/Mining|3555.00|3.39T|23.99|18.81|4.68|106.03|23.20|0.56|NA|32.01B|-234.25B|NA
+JP|6326|Kubota Corporation|Machinery|2932.50|3.30T|12.44|12.63|1.09|13.77|10.01|1.92|0.82|239.88B|-1953.45B|NA
+JP|9503|The Kansai Electric Power Company, Incorporated|Utilities|2905.50|3.24T|7.74|9.62|0.90|35.22|12.51|2.75|0.22|91.92B|-3845.17B|NA
+JP|9101|Nippon Yusen Kabushiki Kaisha|Shipping/Transportation|7200.00|2.87T|12.82|11.14|0.90|16.97|7.71|3.42|0.73|168.86B|-1135.67B|NA
+JP|7013|IHI Corporation|Industrial Manufacturing|2730.50|2.89T|14.27|15.93|4.00|NA|33.44|0.88|0.87|-948.00M|-367.03B|NA
+JP|8830|Sumitomo Realty & Development Co., Ltd.|Real Estate|3207.00|2.96T|13.29|13.38|1.16|NA|9.36|1.62|0.62|-18.35B|-3933.99B|NA
+JP|7936|ASICS Corporation|Apparel|4144.00|2.94T|23.20|21.18|8.15|27.78|42.22|1.16|1.00|105.75B|40.40B|NA
+JP|9766|Konami Group Corporation|Entertainment/Gaming|18245|2.47T|24.73|20.61|4.38|30.92|19.12|1.21|0.39|79.98B|287.63B|NA
+JP|4307|Nomura Research Institute, Ltd.|Research Services|4972.00|2.78T|154.00|22.07|7.38|18.32|4.60|1.73|0.31|151.92B|-103.16B|NA
+JP|4004|Resonac Holdings Corporation|Materials|14960|2.84T|49.38|20.86|3.53|34.13|8.14|0.43|1.10|83.16B|-629.59B|NA
+JP|1925|Daiwa House Industry Co., Ltd.|Real Estate/Construction|4697.00|2.95T|8.25|10.33|0.98|NA|12.88|3.69|0.31|-304.56B|-3004.10B|NA
+JP|4612|Nippon Paint Holdings Co., Ltd.|Specialty Chemicals|1097.00|2.54T|12.95|12.98|1.26|11.12|11.18|1.58|0.82|228.84B|-943.62B|NA
+JP|5801|Furukawa Electric Co., Ltd.|Industrial Manufacturing|3981.00|2.80T|31.27|24.28|6.16|NA|22.57|0.57|1.16|-18.00B|-290.29B|NA
+JP|7735|SCREEN Holdings Co., Ltd.|Semiconductors/Electronics|12255|2.32T|27.00|16.70|4.66|34.15|18.87|1.41|1.54|67.88B|206.20B|NA
+JP|5713|Sumitomo Metal Mining Co., Ltd.|Mining|7622.00|1.98T|11.29|9.30|0.87|104.16|8.69|2.77|1.28|19.05B|-547.05B|NA
+JP|8601|Daiwa Securities Group Inc.|Financial Services|1801.00|2.50T|12.65|12.90|1.20|6.75|10.95|3.85|0.51|370.38B|5.43T|NA
+JP|9735|SECOM CO., LTD.|Security Services|6392.00|2.56T|23.16|21.16|1.72|19.26|8.71|1.88|0.07|133.08B|509.91B|NA
+JP|4507|Shionogi & Co., Ltd.|Pharmaceuticals|2938.00|2.50T|9.49|10.85|1.41|12.43|16.77|2.59|0.03|201.08B|-385.19B|NA
+JP|9104|Mitsui O.S.K. Lines, Ltd.|Shipping/Maritime|7240|2.49T|11.25|10.11|0.82|NA|7.89|2.83|0.70|-88.06B|-2403.33B|NA

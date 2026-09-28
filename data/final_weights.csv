@@ -1,0 +1,44 @@
+ticker,name,country,sleeve,kind,weight
+IVV,"iShares Core S&P 500 ETF",US,Growth,etf,0.0500
+USMV,"iShares MSCI USA Min Vol Factor ETF",US,Growth,etf,0.0100
+XLU,"Utilities Select Sector SPDR ETF",US,Growth,etf,0.0100
+T,"AT&T",US,Growth,stock,0.0200
+CI,"Cigna Group",US,Growth,stock,0.0175
+VNQ,"Vanguard Real Estate ETF",US,Real assets,etf,0.0100
+VICI,"VICI Properties",US,Real assets,reit,0.0125
+IEF,"iShares 7-10Y Treasury ETF",US,Hedge,etf,0.0250
+VTIP,"Vanguard Short-Term TIPS ETF",US,Hedge,etf,0.0275
+SGOV,"iShares 0-3M T-Bill ETF",US,Hedge,etf,0.0325
+IAU,"iShares Gold Trust",US,Hedge,etf,0.0150
+DBMF,"iMGP DBi Managed Futures ETF",US,Hedge,etf,0.0375
+KMLM,"KFA Mount Lucas Managed Futures ETF",US,Hedge,etf,0.0325
+TAIL,"Cambria Tail Risk ETF",US,Hedge,etf,0.0450
+BTAL,"AGF US Market Neutral Anti-Beta ETF",US,Hedge,etf,0.0450
+PDBC,"Invesco Optimum Yield Diversified Commodity ETF",US,Hedge,etf,0.0150
+069500,"KODEX 200",KR,Growth,etf,0.0200
+316140,"Woori Financial Group",KR,Growth,stock,0.0200
+015760,"Korea Electric Power",KR,Growth,stock,0.0275
+033780,"KT&G",KR,Growth,stock,0.0275
+024110,"Industrial Bank of Korea",KR,Growth,stock,0.0225
+086280,"Hyundai Glovis",KR,Growth,stock,0.0150
+030200,"KT Corp",KR,Growth,stock,0.0250
+005830,"DB Insurance",KR,Growth,stock,0.0275
+259960,"Krafton",KR,Growth,stock,0.0250
+021240,"Coway",KR,Growth,stock,0.0250
+161390,"Hankook Tire & Technology",KR,Growth,stock,0.0250
+032640,"LG Uplus",KR,Growth,stock,0.0250
+175330,"JB Financial Group",KR,Growth,stock,0.0200
+329200,"TIGER REITs & Real Estate Infra",KR,Real assets,etf,0.0225
+152380,"KODEX 10Y KTB Futures",KR,Hedge,etf,0.0575
+114260,"KODEX 3Y KTB",KR,Hedge,etf,0.0150
+261240,"KODEX USD Futures",KR,Hedge,etf,0.0100
+459580,"KODEX CD Rate Active",KR,Hedge,etf,0.0100
+132030,"KODEX Gold Futures (H)",KR,Hedge,etf,0.0150
+114800,"KODEX Inverse (KOSPI 200)",KR,Hedge,etf,0.0100
+1306,"NEXT FUNDS TOPIX ETF",JP,Growth,etf,0.0200
+8725,"MS&AD Insurance",JP,Growth,stock,0.0225
+8591,"ORIX",JP,Growth,stock,0.0200
+8630,"Sompo Holdings",JP,Growth,stock,0.0225
+4503,"Astellas Pharma",JP,Growth,stock,0.0225
+1343,"NEXT FUNDS REIT Index ETF",JP,Real assets,etf,0.0150
+2561,"iShares Core Japan Govt Bond ETF",JP,Hedge,etf,0.0275
